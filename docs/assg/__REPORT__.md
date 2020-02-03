@@ -21,6 +21,8 @@ You can embed math equations into Github Markdown file using a [web service](htt
 ## (5 pts)
 Use algebraic manipulation to convert the following equation to sum-of-products form: F = a(b + c)(d’) + ac’(b + d)
 
+
+
 ## (5 pts)
  Use DeMorgan’s Law to find the inverse of the following equation: F = abc + a’b. Reduce to sum-of-products form. Hint: Start with F’ = (abc + a’b)’
 
